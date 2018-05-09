@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="wxpay:war">
-    <output-path>$PROJECT_DIR$/WeChatPay-master/target</output-path>
-    <root id="archive" name="wxpay.war">
-      <element id="artifact" artifact-name="wxpay:war exploded" />
-    </root>
-  </artifact>
-</component>
